@@ -3,8 +3,9 @@
 </p>
 
 <h1 style="text-align:center">~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I am sventek's ~</h1>
-
+<center>
 <h3 align="center">I'm a just a collector, do enjoy the content.</h3>
+</center>
 
 - 🥅 Main Goal: **_`Share Knowledge.`_**
 - ⚡ Fun fact: It's all **`information security`** related.
